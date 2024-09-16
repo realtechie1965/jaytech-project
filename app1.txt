@@ -2,3 +2,7 @@ this is the application we re starting with tonight
 this is getting interesting 
 and we need some coffee
 can i get a ride to the mall
+we will make it 
+we all will succeed in git 
+git and git lab is sweet 
+connect git to git repo
